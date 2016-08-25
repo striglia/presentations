@@ -26,6 +26,6 @@ Description:
 Given at:
 
 * VanPyDay 2016 - https://www.youtube.com/watch?v=x6b7U9GpfQk&t=1h10m45s
-* Europython 2016 - https://www.youtube.com/watch?v=vdS88uyGayM
+* Europython 2016 - https://www.youtube.com/watch?v=vdS88uyGayM ([rated 4.5/5 stars](http://imgur.com/a/Vj3Sl))
 * API World + Integrate 2016
 
