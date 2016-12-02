@@ -15,7 +15,7 @@ Given at:
 * PyDX 2015
 * Pycon Canada 2015 - https://www.youtube.com/watch?v=RMt43wyg-zg
 
-## Protecting your users with Circuit Brekaers
+## Protecting your users with Circuit Breakers
 
 Description:
 
