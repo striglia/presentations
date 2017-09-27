@@ -1,6 +1,6 @@
 # bio
 
-Scott Triglia is a Tech Lead at Yelp and loves making large backend systems reliable and effective. He helped architect Yelp's nearby recommendation engine and was the lead maintainer of business and search geocoding for years. These days he works on scaling up Yelp's revenue infrastructure to power services like food delivery, appointment booking, and reservations.
+Scott Triglia is a Tech Lead at Yelp and loves making large backend systems reliable and effective. He helped architect Yelp's nearby recommendation engine and was the lead maintainer of business and search geocoding for years. These days he works on scaling up Yelp's commerce infrastructure to power services like food delivery, reservations, and advertiser subscriptions.
 
 # presentations
 Talks I have given
