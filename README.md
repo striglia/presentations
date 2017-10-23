@@ -49,3 +49,16 @@ Given at:
 Given at:
 
 * ConFoo Montreal 2017 ([rated ~4.8/5 stars](confoo_swagger_audience_feedback.pdf))
+
+## From monolith to serverless with Amazon Step Functions
+
+Sometimes it seems like you can hardly go a day without hearing about how “serverless” is going to change the world of backend architecture. But aside from toy proofs of concept, how are you realistically supposed to put it into practice? Most of us work with years-old codebases that are resistant to decoupling, much less easy to transition to serverless.
+
+Come hear how Yelp has been moving a 10 year old codebase from tangled spaghetti toward a serverless future using AWS Step Functions (SFN). You’ll gain familiarity with SFN as infrastructure, learn how it can be used to effectively disentangle complicated systems, and understand how to incrementally introduce serverless components into your monolithic application.
+
+
+Given at:
+
+* PyGotham 2017 - https://www.youtube.com/watch?v=UeYHJISlWgk
+* PyTexas 2017
+* Re:Invent 2017
