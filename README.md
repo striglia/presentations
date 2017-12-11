@@ -61,4 +61,4 @@ Given at:
 
 * PyGotham 2017 - https://www.youtube.com/watch?v=UeYHJISlWgk
 * PyTexas 2017
-* Re:Invent 2017
+* Re:Invent 2017 (CMP 319)
