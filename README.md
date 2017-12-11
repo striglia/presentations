@@ -61,4 +61,6 @@ Given at:
 
 * PyGotham 2017 - https://www.youtube.com/watch?v=UeYHJISlWgk
 * PyTexas 2017
-* Re:Invent 2017 (CMP 319)
+* Re:Invent 2017 (CMP319)
+
+Accompanying blog post: https://engineeringblog.yelp.com/2017/11/breaking-down-the-monolith-with-aws-step-functions.html
