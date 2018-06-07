@@ -64,3 +64,15 @@ Given at:
 * Re:Invent 2017 (CMP319)
 
 Accompanying blog post: https://engineeringblog.yelp.com/2017/11/breaking-down-the-monolith-with-aws-step-functions.html
+
+## Surviving (and thriving!) when you are overloaded
+
+Taking on leadership roles always includes new demands on your attention and time. Inevitably, your finite work week will conflict with the sheer amount of tasks you have to do. How can we as leaders keep stepping up to new responsibilities while balancing our pre-existing ones?
+
+This talk will focus on strategies for managing a too-large workload without abandoning important tasks or doing a shoddy job. We’ll look at techniques to prioritize what work matters most, identify tasks we should be doing ourselves, and finally delegate the rest to build our team’s skills while reducing our own workload.
+
+Given at:
+
+* Pycon US 2018 - https://www.youtube.com/watch?v=dWuRDbH4Xlw
+
+Mentioned as one of the best talks at Pycon https://medium.com/civis-analytics/pycon-2018-a-roundup-of-our-favorite-talks-7a9ab3628f9d.
