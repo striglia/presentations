@@ -75,4 +75,4 @@ Given at:
 
 * Pycon US 2018 - https://www.youtube.com/watch?v=dWuRDbH4Xlw
 
-Mentioned as one of the best talks at Pycon https://medium.com/civis-analytics/pycon-2018-a-roundup-of-our-favorite-talks-7a9ab3628f9d.
+Mentioned as one of the best talks at Pycon https://medium.com/civis-analytics/pycon-2018-a-roundup-of-our-favorite-talks-7a9ab3628f9d and https://klaviyo.tech/experiences-of-a-team-at-pycon-2018-68851a4117d6.
