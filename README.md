@@ -76,3 +76,18 @@ Given at:
 * Pycon US 2018 - https://www.youtube.com/watch?v=dWuRDbH4Xlw
 
 Mentioned as one of the best talks at Pycon https://medium.com/civis-analytics/pycon-2018-a-roundup-of-our-favorite-talks-7a9ab3628f9d and https://klaviyo.tech/experiences-of-a-team-at-pycon-2018-68851a4117d6.
+
+## Making impossible decisions one step at a time 
+
+Being faced with an important choice that feels impossible to know the answer to is stressful! This comes up a lot when making business decisions, but also applies to technical choices (e.g. "should my company run 100% on AWS" or "is serverless a fad or a great idea?"). The decision can feel impossible, but the reality is you still have to choose, even if the right choice can't be known a priori!
+
+Challenges include:
+
+* Making decisions where we have little to no experience with one of the options
+* Best and worst case outcomes are either unknown or have a scary amount of variance.
+Sufficiently new ideas often imply unknown challenges lurking. What if those unknown challenges are really bad and make it unappealing in hindsight?
+* New ideas might imply major architecture changes that are outright dangerous!
+
+Come learn strategies for tackling impossibly large decisions by breaking them down, making iterative bets, and creating feedback loops that guide you through the unknown. We’ll ground discussion in case studies from my own experience and point out various failure modes you should avoid along the way.Given at:
+
+* To appear at LeadDev Berlin 2019 https://berlin2019.theleaddeveloper.com/talks#scott-triglia
