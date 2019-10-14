@@ -1,6 +1,6 @@
 # bio
 
-Scott Triglia is a Tech Lead at Yelp and loves making large backend systems reliable and effective. He helped architect Yelp's nearby recommendation engine, was the lead maintainer of business and search geocoding, and lead Yelp's Commerce Platform for payments and billing. Currently he is technical lead Yelp's advertising group.
+Scott Triglia is a software engineer who loves making large backend systems reliable, effective, and a pleasure to use. In the past, he's worked on a variety of API platforms as a technical leader at Yelp. Currently he works at Stripe, making payments infrastructure work across the world.
 
 # presentations
 Talks I have given
