@@ -1,6 +1,6 @@
 # bio
 
-Scott Triglia is a software engineer who loves making large backend systems reliable, effective, and a pleasure to use. In the past, he's worked on a variety of API platforms as a technical leader at Yelp. Currently he works at Stripe, making payments infrastructure work across the world.
+Scott Triglia is a software engineer who loves making large backend systems reliable, effective, and a pleasure to use. In the past, he's worked on a variety of API platforms as a technical leader at Yelp. Currently he is a Staff Engineer at Stripe, making payments infrastructure and money movement work seamlessly across the world.
 
 # presentations
 Talks I have given
