@@ -91,3 +91,4 @@ Sufficiently new ideas often imply unknown challenges lurking. What if those unk
 Come learn strategies for tackling impossibly large decisions by breaking them down, making iterative bets, and creating feedback loops that guide you through the unknown. We’ll ground discussion in case studies from my own experience and point out various failure modes you should avoid along the way.Given at:
 
 * LeadDev Berlin 2019 https://www.youtube.com/watch?v=-JV5cyxS31Q
+* In written form, for the Github Readme project https://github.com/readme/guides/roofshots-decision-making
